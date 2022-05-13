@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-/README.md.old
+README.md.old
 
 # testing
 /coverage
